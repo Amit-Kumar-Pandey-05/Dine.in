@@ -1,4 +1,4 @@
-# Dine.in - Food Delivery Website
+# Dine.in - A Food Delivery Website
 
 Welcome to Dine.in, a delicious food delivery website developed by Amit Kumar Pandey. Currently, dine.in offers a delightful frontend interface for users to explore and order mouthwatering dishes from the comfort of their homes.
 
