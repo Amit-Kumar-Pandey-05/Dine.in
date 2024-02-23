@@ -12,7 +12,7 @@ Welcome to Dine.in, a delicious food delivery website developed by Amit Kumar Pa
 
 ## Getting Started
 
-To get started with dine.in, simply visit [dine.in](https://github.com/Amit-Kumar-Pandey-05/Dine.in/) and start exploring our menu. No additional setup or installation is required.
+To get started with dine.in, simply visit [Dine.in](https://github.com/Amit-Kumar-Pandey-05/Dine.in/) and start exploring our menu. No additional setup or installation is required.
 
 ## Developer
 
